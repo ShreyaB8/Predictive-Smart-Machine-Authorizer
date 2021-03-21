@@ -4,6 +4,7 @@
 </p>
   <p align="center">
       <img alt="Status" src="https://img.shields.io/badge/Status-ongoing-blue" />
+      <img alt="Funding" src="https://img.shields.io/badge/Funding-Stage 2-yellow" />
   </p>
 
 ### About the Project
